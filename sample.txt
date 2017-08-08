@@ -1,3 +1,4 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 hello world
 Add them content
+commit: Lưu lại trạng thái của index
